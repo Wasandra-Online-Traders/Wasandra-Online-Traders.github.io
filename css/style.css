@@ -696,7 +696,7 @@ form.search button:hover{
     justify-content: flex-end;
     padding: 0 0 10% 10%;
     z-index: 1;
-    top:-10rem;
+    top:-4.6rem;
 }
 .slider h4{
     font-size: var(--font-small);
